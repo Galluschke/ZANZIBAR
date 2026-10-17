@@ -1,7 +1,5 @@
-Z LOCAL 6.0 — Zanzibar discovery PWA
-Upload every file in this ZIP directly to the root of your GitHub Pages repository. No folders.
-Includes sample listings and indicative prices; no real bookings are confirmed.
-Configure WhatsApp number under More. Leads are stored locally on this device only.
-Photos load from Wikimedia Commons and need individual licensing review before commercial launch.
-
-Version 7: Four-language flag picker (English, German, Italian, Kiswahili). Localized app UI; sample listing details may remain in English for Italian/Swahili.
+Z LOCAL 8.0 – Zanzibar marketplace
+Upload all files to GitHub Pages repository root. No folders.
+Four languages: English, Deutsch, Italiano, Kiswahili. Round flags are original inline SVG artwork, not emoji.
+All offers are demos. WhatsApp enquiries require a configured number in More.
+Photo credits: PHOTO_SOURCES.txt. Internet required for Wikimedia photos.
