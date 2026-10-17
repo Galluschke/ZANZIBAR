@@ -1,1 +1,5 @@
-Z LOCAL 5.0 TEST BUILD\nUpload all files to GitHub Pages root (no folders).\nSet your own WhatsApp number in More.\nEnquiries are prepared in WhatsApp and saved only in this browser; no server sync or verified booking status.\nExport CSV in More for manual partner reconciliation.\nCommission is illustrative, not verified earned revenue.\nOffers, prices and some photographs are illustrative. Confirm rights and partner details before launch.\n
+Z LOCAL 6.0 — Zanzibar discovery PWA
+Upload every file in this ZIP directly to the root of your GitHub Pages repository. No folders.
+Includes sample listings and indicative prices; no real bookings are confirmed.
+Configure WhatsApp number under More. Leads are stored locally on this device only.
+Photos load from Wikimedia Commons and need individual licensing review before commercial launch.
