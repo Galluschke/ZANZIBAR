@@ -1,0 +1,13 @@
+Z LOCAL 3.1 — PHOTOGRAPHY SOURCES (prototype)
+Images are loaded online from Wikimedia Commons Special:FilePath and are not bundled in this ZIP. Internet access is required.
+
+dhow: https://commons.wikimedia.org/wiki/File:Zanzibar_Sunset_Boat.jpg
+sea: https://commons.wikimedia.org/wiki/File:Dhow_Zanzibar-3.jpg
+beach: https://commons.wikimedia.org/wiki/File:The_Rock_Restaurant%2C_Zanzibar_%288229829534%29.jpg
+food: https://commons.wikimedia.org/wiki/File:Spice_Market_in_Stone_town_Zanzibar.JPG
+spice: https://commons.wikimedia.org/wiki/File:Stone_Town_spice_stall.jpg
+car: https://commons.wikimedia.org/wiki/File:Harbour_at_the_picturesque_Stone_Town.jpg
+wellness: https://commons.wikimedia.org/wiki/File:Ocean_View_at_the_Tanzanian_Hotel.jpg
+town: https://commons.wikimedia.org/wiki/File:Stone_Town_Sunset_%2853927166794%29.jpg
+
+Rights and attribution: consult each linked Commons file page for the named photographer and specific license before public/commercial release. Licenses differ; attribution and share-alike obligations may apply. These images are documentary location photos, not photos of a verified tour operator or booked service. Some category images illustrate the location rather than the exact service. No real bookings or prices are verified.
